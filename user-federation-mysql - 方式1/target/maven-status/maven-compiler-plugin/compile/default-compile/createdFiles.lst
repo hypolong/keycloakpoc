@@ -1,0 +1,5 @@
+com\example\keycloak\mysql\MySQLUserFederationConfig.class
+com\example\keycloak\mysql\MySQLUserFederationProvider.class
+com\example\keycloak\mysql\MySQLUserRepresentation.class
+com\example\keycloak\mysql\MySQLUserFederationProvider$1.class
+com\example\keycloak\mysql\MySQLUserFederationProviderFactory.class
