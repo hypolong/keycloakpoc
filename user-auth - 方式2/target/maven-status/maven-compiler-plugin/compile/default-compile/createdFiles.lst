@@ -1,0 +1,4 @@
+com\example\keycloak\auth\CompanyCodeAuthenticator.class
+com\example\keycloak\auth\CompanyCodeAuthenticator$1.class
+com\example\keycloak\auth\CompanyCodeAuthenticatorFactory.class
+com\example\keycloak\auth\UserRepresentation.class
