@@ -1,0 +1,8 @@
+com\example\UserFederationConfig.class
+com\example\UserFederationProviderFactory.class
+com\example\keycloak\auth\CompanyCodeAuthenticator.class
+com\example\keycloak\auth\CompanyCodeAuthenticator$1.class
+com\example\UserFederationProvider$1.class
+com\example\UserRepresentation.class
+com\example\keycloak\auth\CompanyCodeAuthenticatorFactory.class
+com\example\UserFederationProvider.class
