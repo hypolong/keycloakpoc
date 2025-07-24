@@ -1,0 +1,58 @@
+.kc-login-container {
+    width: 400px;
+    margin: 60px auto;
+    padding: 40px;
+    background-color: #f8f9fa;
+    border-radius: 10px;
+    box-shadow: 0 0 12px rgba(0, 0, 0, 0.1);
+    font-family: "Noto Sans", "Helvetica Neue", Arial, sans-serif;
+}
+
+.kc-login-title {
+    text-align: center;
+    font-size: 24px;
+    margin-bottom: 30px;
+    color: #007bff;
+}
+
+.kc-form-group {
+    margin-bottom: 20px;
+}
+
+.kc-form-group label {
+    display: block;
+    margin-bottom: 6px;
+    font-weight: 600;
+    color: #333;
+}
+
+.kc-input {
+    width: 100%;
+    padding: 10px 12px;
+    font-size: 15px;
+    border: 1px solid #ccc;
+    border-radius: 6px;
+    transition: border-color 0.3s;
+}
+
+.kc-input:focus {
+    outline: none;
+    border-color: #007bff;
+}
+
+.kc-btn {
+    width: 100%;
+    padding: 10px 16px;
+    background-color: #007bff;
+    border: none;
+    color: white;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 6px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+.kc-btn:hover {
+    background-color: #0056b3;
+}
